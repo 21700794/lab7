@@ -3,7 +3,7 @@
 
   ㄹㅇㅇㄹ
 
-<code>
+<pre>
   dfadsfsfsafds;fkjad;fadsljfk
-  </code>
+  </pre>
   
